@@ -1,0 +1,12 @@
+.App {
+  background-image: url(/images/back_4.svg);
+  background-size: cover; /* Розтягнутий фон */
+  width: 100%;
+  height: 408vh;
+}
+
+
+.box{
+  width: 88%;
+  margin: 0 auto;
+}

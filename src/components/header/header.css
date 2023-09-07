@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&family=Bebas+Neue&family=Inspiration&family=Montserrat:ital,wght@0,500;0,600;1,100&family=Open+Sans:wght@700&family=Raleway&family=Roboto+Mono:wght@500&family=Roboto:wght@300&display=swap');
+.header_logo{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   width: 20%;
+}
+
+.header_nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding-top: 5%;
+}
+
+.header_h1{
+   margin-left: 10%;
+   color: #FFF;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 5rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.header_img_burger{
+   width: 110%;
+}

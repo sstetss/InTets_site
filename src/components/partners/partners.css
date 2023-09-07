@@ -1,0 +1,15 @@
+.part_box{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-bottom: 5%;
+}
+
+.part_img{
+   width: 25%;
+   opacity: 0.9;
+}
+
+.part{
+   margin-top: 20%;
+}
