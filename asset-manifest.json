@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/InTets_site/static/css/main.adc8335a.css",
+    "main.js": "/InTets_site/static/js/main.6a9117f8.js",
+    "static/js/787.a3ae5a53.chunk.js": "/InTets_site/static/js/787.a3ae5a53.chunk.js",
+    "static/media/back_4.svg": "/InTets_site/static/media/back_4.e7b803a27bbb06d5d07d.svg",
+    "static/media/comp_1.svg": "/InTets_site/static/media/comp_1.87479760112e3c0bc633c3c1b6c49b3f.svg",
+    "static/media/ipad.svg": "/InTets_site/static/media/ipad.ba33145c08a91f41f56e5419832639da.svg",
+    "static/media/TEM_3.png": "/InTets_site/static/media/TEM_3.9dde66643d5bc75278c2.png",
+    "static/media/TEM_2.png": "/InTets_site/static/media/TEM_2.19bd3395139c04b5c617.png",
+    "static/media/avatar-231709-088398.png": "/InTets_site/static/media/avatar-231709-088398.4262ead5ee2edeed88e5.png",
+    "static/media/TEM_1.png": "/InTets_site/static/media/TEM_1.1560ad794f1a5472ad02.png",
+    "static/media/avatar-221674-066692.png": "/InTets_site/static/media/avatar-221674-066692.8b89f603a0e407c49923.png",
+    "static/media/spin_city.svg": "/InTets_site/static/media/spin_city.9a4f6efdf7272e056becbbd35127ae08.svg",
+    "static/media/Neon54-casino-logo-1.png": "/InTets_site/static/media/Neon54-casino-logo-1.80cba54af4345820e968.png",
+    "static/media/ice.svg": "/InTets_site/static/media/ice.fc478b2703a6ddc199074a432f8d43ae.svg",
+    "static/media/icons8-instagram.svg": "/InTets_site/static/media/icons8-instagram.8284087a495da86cf7955cf6dc4f125b.svg",
+    "index.html": "/InTets_site/index.html",
+    "main.adc8335a.css.map": "/InTets_site/static/css/main.adc8335a.css.map",
+    "main.6a9117f8.js.map": "/InTets_site/static/js/main.6a9117f8.js.map",
+    "787.a3ae5a53.chunk.js.map": "/InTets_site/static/js/787.a3ae5a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc8335a.css",
+    "static/js/main.6a9117f8.js"
+  ]
+}
