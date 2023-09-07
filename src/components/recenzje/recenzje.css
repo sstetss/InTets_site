@@ -1,7 +1,7 @@
 .review_h1{
    color: #fff;
    font-family: 'Open Sans', sans-serif;
-   font-size: 5rem;
+   font-size: 2rem;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
@@ -34,7 +34,7 @@ flex-direction: column;
 .review_text{
    color: #4F88F8;
    font-family: 'Open Sans', sans-serif;
-   font-size: 3.5rem;
+   font-size: 1rem;
    opacity: 0.9;
 font-style: normal;
 font-weight: 600;
@@ -47,7 +47,7 @@ margin-top: 20%;
 
 .review_sub{
    font-family: 'Open Sans', sans-serif;
-   font-size: 3rem;
+   font-size: 1rem;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
@@ -59,7 +59,7 @@ letter-spacing: 5px;
 }
 
 .review_stars{
-font-size: 3rem;
+font-size: 1rem;
 }
 
 .review_img{
@@ -74,5 +74,13 @@ font-size: 3rem;
 }
 
 .review_img_2{
-   top: 60%;
+   top: 58%;
 }
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+   /* Додаткові стилі для екранів в інтервалі від 321px до 480px */
+ }
+ @media screen and (min-width: 769px) {
+   /* Додаткові стилі для екранів більше 769px */
+ }
+  

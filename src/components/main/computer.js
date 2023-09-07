@@ -12,8 +12,11 @@ function Computer() {
       <div className='main_sub'>
       Jesteśmy InTest, firmą zajmującą się testowaniem aplikacji i kasyn
       </div>
+      <h1 className='hand_emoji_1'>👉</h1>
+        <h1 className='hand_emoji_2'>👉</h1>
+        <h1 className='hand_emoji_3'>👉</h1>
       <div className='main_box'>
-         <a href="#" className='main_button'> Test </a>
+         <a href="https://ig.me/m/vstetsiuk" className='main_button'> Pisać </a>
          <img className='main_img' src={comp} alt='logo2' />
       </div>
     </div>

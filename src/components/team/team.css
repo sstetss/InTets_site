@@ -26,7 +26,7 @@
    margin-left: 2%;
    color: #ffffffdf;
    font-family: 'Open Sans', sans-serif;
-   font-size: 2.5rem;
+   font-size: 1rem;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
@@ -36,3 +36,11 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
     0px -4px 10px rgba(255,255,255,0.3);
  }
+
+ @media screen and (min-width: 321px) and (max-width: 480px) {
+   /* Додаткові стилі для екранів в інтервалі від 321px до 480px */
+ }
+ @media screen and (min-width: 769px) {
+   /* Додаткові стилі для екранів більше 769px */
+ }
+  

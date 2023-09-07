@@ -2,11 +2,27 @@
   background-image: url(/images/back_4.svg);
   background-size: cover; /* Розтягнутий фон */
   width: 100%;
-  height: 408vh;
+  height: 422vh;
 }
 
 
 .box{
   width: 88%;
   margin: 0 auto;
+}
+
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .App{
+    height: 450vh;
+  }
+}
+@media screen and (max-width: 370px) {
+  .App{
+    height: 500vh;
+  }
+}
+@media screen and (min-width: 570px) {
+  .App{
+    height: 600vh;
+  }
 }

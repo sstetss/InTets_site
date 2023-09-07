@@ -17,12 +17,23 @@
    margin-left: 10%;
    color: #FFF;
    font-family: 'Open Sans', sans-serif;
-   font-size: 5rem;
+   font-size: 2rem;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
 }
 
 .header_img_burger{
-   width: 110%;
+   width: 50%;
 }
+.header_img{
+   width: 60%;
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+   /* Додаткові стилі для екранів в інтервалі від 321px до 480px */
+ }
+ @media screen and (min-width: 769px) {
+   /* Додаткові стилі для екранів більше 769px */
+ }
+  

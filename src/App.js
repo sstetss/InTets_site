@@ -18,7 +18,7 @@ function App() {
       <Team/>
       <Partners/>
       <Review/>
-      <hr style={{height:'5px',backgroundColor:'#fff',marginTop:'10%'}}/>
+      <hr style={{height:'1px',backgroundColor:'#fff',marginTop:'10%'}}/>
       <Footer/>
       </div>
     </div>

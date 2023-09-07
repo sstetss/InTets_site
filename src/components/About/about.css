@@ -20,7 +20,7 @@
    padding-top: 5%;
    color: #FFF;
    font-family: 'Open Sans', sans-serif;
-   font-size: 5.5rem;
+   font-size: 2rem;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
@@ -34,7 +34,7 @@ text-shadow: 2px 7px 5px rgba(0,0,0,0.3),
 .about_par{
    color: #FFF;
    font-family: 'Open Sans', sans-serif;
-   font-size: 3.2rem;
+   font-size: 1.2rem;
 font-style: normal;
 opacity: 0.8;
 font-weight: 600;
@@ -43,3 +43,11 @@ margin-bottom: 5%;
 text-align: center;
 text-align: start;
 }
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+   /* Додаткові стилі для екранів в інтервалі від 321px до 480px */
+ }
+ @media screen and (min-width: 769px) {
+   /* Додаткові стилі для екранів більше 769px */
+ }
+  

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sstetss.github.io/InTest",
+  "homepage": "https://sstetss.github.io/InTets_site",
   "name": "intest-app",
   "version": "0.1.0",
   "private": true,
@@ -17,11 +17,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [

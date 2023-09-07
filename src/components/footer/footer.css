@@ -14,7 +14,7 @@
    
    color: #FFF;
    font-family: 'Open Sans', sans-serif;
-   font-size: 3.2rem;
+   font-size: 1.2rem;
 font-style: normal;
 opacity: 0.8;
 font-weight: 600;
@@ -30,19 +30,19 @@ text-align: center;
    align-items: center;
    justify-content: space-between;
    width: 20%;
-   margin-left: 30%;
+   margin-left: 20%;
    margin-bottom: 5%;
 }
 
 .footer_img_logo{
-   width: 300%;
+   width: 100%;
 }
 
 .footer_h1{
    margin-left: 20%;
    color: #FFF;
    font-family: 'Open Sans', sans-serif;
-   font-size: 5rem;
+   font-size: 2rem;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
@@ -60,7 +60,7 @@ line-height: normal;
 .footer_location_text{
    color: #FFF;
    font-family: 'Open Sans', sans-serif;
-   font-size: 3rem;
+   font-size: 1.2rem;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
@@ -71,17 +71,17 @@ margin-left: 1%;
    justify-content: space-between;
    display: flex;
    align-items: center;
-   width: 60%;
+   width: 70%;
    margin: 0 auto;
    margin-top: 13%;
 }
 
 .footer_but_test{
-   background-color: #4F56F8;
+   background-color: #f84f4f;
    padding: 5% 8%;
    color: #FFF;
    font-family: 'Open Sans', sans-serif;
-   font-size: 4rem;
+   font-size: 1rem;
    margin-bottom: 4%;
    opacity: 0.97;
 font-style: normal;
@@ -92,3 +92,20 @@ box-shadow: rgba(0, 0, 0, 0.35) 5px 10px 15px;
 text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
     0px -4px 10px rgba(255,255,255,0.3);
 }
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+   /* Додаткові стилі для екранів в інтервалі від 321px до 480px */
+ }
+ @media screen and (min-width: 769px) {
+   /* Додаткові стилі для екранів більше 769px */
+ }
+ @media screen and (min-width: 370px) {
+   .footer_location_box{
+      width: 50%;
+   }
+
+   .footer_logo{
+      margin-left: 25%;
+      margin-bottom: 10%;
+   }
+ }
