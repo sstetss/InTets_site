@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/InTets_site/static/css/main.936f0330.css",
-    "main.js": "/InTets_site/static/js/main.9d424f23.js",
+    "main.css": "/InTets_site/static/css/main.9ce91fee.css",
+    "main.js": "/InTets_site/static/js/main.6e2f845a.js",
     "static/js/787.a3ae5a53.chunk.js": "/InTets_site/static/js/787.a3ae5a53.chunk.js",
     "static/media/back_4.svg": "/InTets_site/static/media/back_4.e7b803a27bbb06d5d07d.svg",
     "static/media/comp_1.svg": "/InTets_site/static/media/comp_1.87479760112e3c0bc633c3c1b6c49b3f.svg",
+    "static/media/Instagram_logo_2016.svg.png": "/InTets_site/static/media/Instagram_logo_2016.svg.fa767dc54bb713857609.png",
     "static/media/ipad.svg": "/InTets_site/static/media/ipad.ba33145c08a91f41f56e5419832639da.svg",
     "static/media/TEM_3.png": "/InTets_site/static/media/TEM_3.9dde66643d5bc75278c2.png",
     "static/media/TEM_2.png": "/InTets_site/static/media/TEM_2.19bd3395139c04b5c617.png",
     "static/media/avatar-231709-088398.png": "/InTets_site/static/media/avatar-231709-088398.4262ead5ee2edeed88e5.png",
     "static/media/TEM_1.png": "/InTets_site/static/media/TEM_1.1560ad794f1a5472ad02.png",
+    "static/media/Android_robot.svg.png": "/InTets_site/static/media/Android_robot.svg.b2cdd030efddfec0fc49.png",
+    "static/media/App_Store_(iOS).svg.png": "/InTets_site/static/media/App_Store_(iOS).svg.31c81c0bf362eea21804.png",
     "static/media/avatar-221674-066692.png": "/InTets_site/static/media/avatar-221674-066692.8b89f603a0e407c49923.png",
-    "static/media/spin_city.svg": "/InTets_site/static/media/spin_city.9a4f6efdf7272e056becbbd35127ae08.svg",
-    "static/media/Neon54-casino-logo-1.png": "/InTets_site/static/media/Neon54-casino-logo-1.80cba54af4345820e968.png",
-    "static/media/ice.svg": "/InTets_site/static/media/ice.fc478b2703a6ddc199074a432f8d43ae.svg",
+    "static/media/Tiktok_Logo.png": "/InTets_site/static/media/Tiktok_Logo.91ebbc3ca7cc1b7481d3.png",
+    "static/media/google-play-store-icon-logo-symbol-free-png.webp": "/InTets_site/static/media/google-play-store-icon-logo-symbol-free-png.0cb0f10444c46ab3ec05.webp",
+    "static/media/Logo_of_Twitter.svg.png": "/InTets_site/static/media/Logo_of_Twitter.svg.1dc47282cde389383976.png",
     "static/media/icons8-instagram.svg": "/InTets_site/static/media/icons8-instagram.8284087a495da86cf7955cf6dc4f125b.svg",
     "index.html": "/InTets_site/index.html",
-    "main.936f0330.css.map": "/InTets_site/static/css/main.936f0330.css.map",
-    "main.9d424f23.js.map": "/InTets_site/static/js/main.9d424f23.js.map",
+    "main.9ce91fee.css.map": "/InTets_site/static/css/main.9ce91fee.css.map",
+    "main.6e2f845a.js.map": "/InTets_site/static/js/main.6e2f845a.js.map",
     "787.a3ae5a53.chunk.js.map": "/InTets_site/static/js/787.a3ae5a53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.936f0330.css",
-    "static/js/main.9d424f23.js"
+    "static/css/main.9ce91fee.css",
+    "static/js/main.6e2f845a.js"
   ]
 }
