@@ -1,10 +1,10 @@
 import React from 'react';
-import ice from './images/ice.svg';
-import hot from './images/HotSlots_Casino_Logo_Review.png';
-import spin from './images/spin_city.svg';
-import slot from './images/24Slots_Casino_Logo_Review.png';
-import neon from './images/Neon54-casino-logo-1.png';
-import gg from './images/gg_bet.png';
+import ice from './images/App_Store_(iOS).svg.png';
+import hot from './images/Instagram_logo_2016.svg.png';
+import spin from './images/Logo_of_Twitter.svg.png';
+import slot from './images/Tiktok_Logo.png';
+import neon from './images/google-play-store-icon-logo-symbol-free-png.webp';
+import gg from './images/Android_robot.svg.png';
 
 
 import './partners.css'
@@ -19,7 +19,7 @@ function Partners() {
       <img className='part_img' src={spin} alt='hamb' />
       </div>
       <div className='part_box'>
-      <img className='part_img' src={slot} alt='hamb' />
+      <img className='part_img' src={gg} alt='hamb' />
       <img className='part_img' src={neon} alt='hamb' />
       <img className='part_img' src={hot} alt='hamb' />
       </div>

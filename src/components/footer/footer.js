@@ -16,13 +16,13 @@ function Footer() {
          <h1 className='footer_h1'>InTest</h1>
          </div>
       
-      <a className='footer_but_test' href='https://ig.me/m/vstetsiuk'>Rozpocznij Testowanie</a>
+      <a className='footer_but_test' href='https://ig.me/m/julia_szyman'>Rozpocznij Testowanie</a>
       <div className='footer_location_box'>
       <img className='footer_img_location' src={location} alt='hamb' />
       <div className='footer_location_text'>Warszawa , Polska</div>
       </div>
       <div className='footer_social'>
-         <a href='https://ig.me/m/vstetsiuk'><img className='footer_img' src={insta} alt='hamb' /></a>
+         <a href='https://ig.me/m/julia_szyman'><img className='footer_img' src={insta} alt='hamb' /></a>
          <a href='https://t.me/testowanie_pl'><img className='footer_img' src={tele} alt='hamb' /></a>
       </div>
       </div>

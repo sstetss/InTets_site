@@ -11,7 +11,7 @@ function Header() {
         <img className='header_img' src={logo2} alt='logo2' />
         <h1 className='header_h1'>InTest</h1>
       </div>
-      <a href='#'><img className='header_img_burger' src={hamb} alt='hamb' /> </a>
+      <img className='header_img_burger' src={hamb} alt='hamb' /> 
     </div>
   );
 }
